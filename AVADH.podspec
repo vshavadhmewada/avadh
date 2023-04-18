@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AVADH'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AVADH. This pod is for testing'
+  s.summary          = 'A short description of AVADH. This pod is for concating strings'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
   'A short description of AVADH. This pod is for testing. this will only return an concatig string which is written on function only.'
                        DESC
 
-  s.homepage         = 'https://github.com/avadh_vsh/AVADH'
+  s.homepage         = 'https://github.com/vshavadhmewada/avadh'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'avadh_vsh' => 'avadh.mewada@vshsolutions.com' }
   s.source           = { :git => 'https://github.com/vshavadhmewada/avadh.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/avadh_vsh'
+#  s.social_media_url = 'https://twitter.com/avadh_vsh'
 
   s.ios.deployment_target = '13.0'
 
