@@ -1,0 +1,6 @@
+framework module Pods_AVADH_Tests {
+  umbrella header "Pods-AVADH_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

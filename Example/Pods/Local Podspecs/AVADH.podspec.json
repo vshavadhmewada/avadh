@@ -1,0 +1,22 @@
+{
+  "name": "AVADH",
+  "version": "0.1.0",
+  "summary": "A short description of AVADH.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/avadh_vsh/AVADH",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "avadh_vsh": "avadh.mewada@vshsolutions.com"
+  },
+  "source": {
+    "git": "https://github.com/avadh_vsh/AVADH.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AVADH/Classes/**/*"
+}

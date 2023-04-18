@@ -1,0 +1,6 @@
+framework module AVADH {
+  umbrella header "AVADH-umbrella.h"
+
+  export *
+  module * { export * }
+}

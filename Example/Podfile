@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '13.0'
+
+target 'AVADH_Example' do
+  pod 'AVADH', :path => '../'
+
+  target 'AVADH_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
