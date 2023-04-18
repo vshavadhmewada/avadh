@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AVADH'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AVADH. This pod is for concating strings'
+  s.summary          = 'Elegant Attributed String composition in Swift source. This pod is for concating strings'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  'A short description of AVADH. This pod is for testing. this will only return an concatig string which is written on function only.'
+  'A short Elegant Attributed String composition in Swift sauce of AVADH. This pod is for testing. this will only return an concatig string which is written on function only.'
                        DESC
 
   s.homepage         = 'https://github.com/vshavadhmewada/avadh'
